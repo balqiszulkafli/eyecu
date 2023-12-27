@@ -1,16 +1,3 @@
-# eyecu
+# EyeCu 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+During my Final Year Project (FYP), I created a Colour Vision Deficiency Test App to identify individuals with color blindness. I conducted in-depth research on different types of color blindness and the appropriate tests to be conducted. The main goal was to develop an app that could effectively evaluate color vision deficiencies. To achieve this, I incorporated a randomization technique in the app's question generation process, ensuring that the questions appeared in a random order to prevent users from memorizing the sequence. As a result, I successfully created the app, which provides a comprehensive assessment of color vision deficiencies.
